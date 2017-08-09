@@ -1,0 +1,43 @@
+/*Styles for GifTastic*/
+
+
+body {
+  text-align: center;
+}
+
+.container-fluid {
+  max-width: 80%;
+}
+
+.jumbotron {
+  background-color: #337Ab7;
+  color: white;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+.panel-heading,
+.form-group,
+.trainTable {
+  text-align: left;
+
+}
+
+th,
+td {
+
+  padding: 20px 100px 20px 0px;
+}
+
+#addTrain {
+  float: left;
+}
+
+.postedTime {
+ float: right; 
+
+}
+
+.errorMsg {
+  color: red;
+}
